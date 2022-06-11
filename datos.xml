@@ -1,0 +1,56 @@
+<Datos>
+  <Clientes>
+      <cliente id="1">
+        <nombre>Julia Mendez</nombre>
+        <NIF>11111111F</NIF>
+        <fecha>10/5/2019</fecha>
+        <articulo>tc</articulo>
+        <unidades>10</unidades>
+     </cliente>
+     <cliente id="2">
+        <nombre>Ricardo Jaen</nombre>
+        <NIF>22222222N</NIF>
+        <fecha>17/12/2019</fecha>
+        <articulo>rt</articulo>
+        <unidades>30</unidades>
+     </cliente>
+     <cliente id="3">
+        <nombre>Aurora Martin</nombre>
+        <NIF>33333333J</NIF>
+        <fecha>1/3/2020</fecha>
+        <articulo>sc</articulo>
+        <unidades>2</unidades>
+     </cliente>
+     <cliente id="4">
+        <nombre>Alberto Molina</nombre>
+        <NIF>444444444P</NIF>
+        <fecha>13/8/2020</fecha>
+        <articulo>rt</articulo>
+        <unidades>25</unidades>
+     </cliente>
+	 <cliente id="5">
+        <nombre>Juan Ocaña</nombre>
+        <NIF>55555555L</NIF>
+        <fecha>10/2/2020</fecha>
+        <articulo>tc</articulo>
+        <unidades>100</unidades>
+     </cliente>
+  </Clientes>
+  <Productos>
+     <producto id="sc">
+       <descripcion>Escaner</descripcion>
+       <precio>175</precio>
+       <stock>25</stock>
+     </producto>
+     <producto id="rt">
+       <descripcion>Raton</descripcion>
+       <precio>20</precio>
+       <stock>150</stock>
+     </producto>
+     <producto id="tc">
+       <descripcion>Teclado</descripcion>
+       <precio>90</precio>
+       <stock>60</stock>
+  </producto>
+  </Productos>
+</Datos>

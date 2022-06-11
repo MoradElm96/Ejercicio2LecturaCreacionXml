@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Facturas>
+    <Factura NIF="11111111F">
+        <Descripcion>Raton</Descripcion>
+        <Unidades>10</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="11111111F">
+        <Descripcion>Teclado</Descripcion>
+        <Unidades>10</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="22222222N">
+        <Descripcion>Raton</Descripcion>
+        <Unidades>30</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="22222222N">
+        <Descripcion>Teclado</Descripcion>
+        <Unidades>30</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="33333333J">
+        <Descripcion>Raton</Descripcion>
+        <Unidades>2</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="33333333J">
+        <Descripcion>Teclado</Descripcion>
+        <Unidades>2</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+    <Factura NIF="444444444P">
+        <Descripcion>Raton</Descripcion>
+        <Unidades>25</Unidades>
+        <Precio>0</Precio>
+        <Total>0</Total>
+    </Factura>
+</Facturas>
