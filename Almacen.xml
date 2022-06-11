@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Almacen>
+  <lote id="1">
+      <numcajas>3</numcajas>
+      <contenido>
+         <componente>Fuentes</componente>
+         <numserie>3A</numserie>
+         <unidades>50</unidades>
+      </contenido>
+      <peso>75Kg</peso>
+      <manipulacion>Manual</manipulacion>
+  </lote>
+  <lote id="2">
+     <numcajas>2</numcajas>
+     <contenido>
+         <componente>CPUs</componente>
+         <numserie>5B</numserie>
+         <unidades>15</unidades>
+     </contenido>
+     <peso>100kg</peso>
+     <manipulacion>Manual</manipulacion>
+ </lote>
+ <lote id="3">
+     <numcajas>5</numcajas>
+     <contenido>
+         <componente>Chips</componente>
+         <numserie>6SH</numserie>
+         <unidades>300</unidades>
+     </contenido>
+     <peso>20kg</peso>
+     <manipulacion>Manual</manipulacion>
+ </lote>
+ <lote id="4">
+     <numcajas>7</numcajas>
+     <contenido>
+         <componente>Ratones</componente>
+         <numserie>34D</numserie>
+         <unidades>10</unidades>
+     </contenido>
+     <peso>18kg</peso>
+     <manipulacion>Manual</manipulacion>
+ </lote>
+</Almacen>

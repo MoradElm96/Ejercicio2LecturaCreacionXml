@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resumen>
+    <Articulo nombre="Fuentes">
+        <cajas>3</cajas>
+        <cantidad>50</cantidad>
+        <total>150</total>
+        <peso>75Kg</peso>
+    </Articulo>
+    <Articulo nombre="CPUs">
+        <cajas>2</cajas>
+        <cantidad>15</cantidad>
+        <total>30</total>
+        <peso>100kg</peso>
+    </Articulo>
+    <Articulo nombre="Chips">
+        <cajas>5</cajas>
+        <cantidad>300</cantidad>
+        <total>1500</total>
+        <peso>20kg</peso>
+    </Articulo>
+    <Articulo nombre="Ratones">
+        <cajas>7</cajas>
+        <cantidad>10</cantidad>
+        <total>70</total>
+        <peso>18kg</peso>
+    </Articulo>
+</Resumen>
